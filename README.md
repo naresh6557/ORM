@@ -49,7 +49,8 @@ admin.site.register(Movie,MovieAdmin)
 
 ## OUTPUT
 
-![alt text](naresh111-1.png)
+![naresh111](https://github.com/user-attachments/assets/184b4216-a162-4be0-a14c-a05a9294b56f)
+
 
 
 ## RESULT
